@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pagina/static/css/main.073c9b0a.css",
+    "main.js": "/pagina/static/js/main.0015d461.js",
+    "static/js/787.9b9f2947.chunk.js": "/pagina/static/js/787.9b9f2947.chunk.js",
+    "static/media/logo.svg": "/pagina/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pagina/index.html",
+    "main.073c9b0a.css.map": "/pagina/static/css/main.073c9b0a.css.map",
+    "main.0015d461.js.map": "/pagina/static/js/main.0015d461.js.map",
+    "787.9b9f2947.chunk.js.map": "/pagina/static/js/787.9b9f2947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0015d461.js"
+  ]
+}
